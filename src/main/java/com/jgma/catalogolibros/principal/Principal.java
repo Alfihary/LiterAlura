@@ -36,7 +36,7 @@ public class Principal {
                     │ 《3》 Consultar autores registrados
                     │ 《4》 Consultar autores vivos en determinado año
                     │ 《5》 Libros por idiomas
-                    │ 《6》
+                    │ 《6》 Top 10 libros mas descargados
                     │ 《0》 Salir
                     ╰───────────────────────────────────────────────╯
                     
